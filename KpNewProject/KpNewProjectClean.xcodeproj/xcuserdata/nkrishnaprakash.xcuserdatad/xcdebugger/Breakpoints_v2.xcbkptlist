@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "11981F68-AFC0-44FF-8402-0B1190372215"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "881ACA9B-5A3A-4DAA-835F-719057C2A501"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KpNewProject/Presentation/ViewModels/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchCompanies()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD4C7882-A90B-4ED2-9610-B3F8DD02293D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KpNewProject/Presentation/ViewModels/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "fetchCompanies()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B04584EA-FF0E-4F46-AEF6-78FCF9D7DCEF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KpNewProject/DataLayer/Network/ProductsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchCompanies()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B04584EA-FF0E-4F46-AEF6-78FCF9D7DCEF - 7e51eb8b9cbfe0b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KpNewProjectClean.ProductsService.fetchCompanies() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;KpNewProjectClean.Company&gt;, Swift.Error&gt;"
+                  moduleName = "KpNewProjectClean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkrishnaprakash/KP%20Working%20Directory/Kp%20Stuff/KpNewProject/KpNewProject/DataLayer/Network/ProductsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "B04584EA-FF0E-4F46-AEF6-78FCF9D7DCEF - 7e51eb8b9cbfe0b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KpNewProjectClean.ProductsService.fetchCompanies() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;KpNewProjectClean.Company&gt;, Swift.Error&gt;"
+                  moduleName = "KpNewProjectClean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkrishnaprakash/KP%20Working%20Directory/Kp%20Stuff/KpNewProject/KpNewProject/DataLayer/Network/ProductsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "B04584EA-FF0E-4F46-AEF6-78FCF9D7DCEF - 7e51eb8b9cbfe0b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KpNewProjectClean.ProductsService.fetchCompanies() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;KpNewProjectClean.Company&gt;, Swift.Error&gt;"
+                  moduleName = "KpNewProjectClean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkrishnaprakash/KP%20Working%20Directory/Kp%20Stuff/KpNewProject/KpNewProject/DataLayer/Network/ProductsService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "552">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F76330B4-E1E9-4BB8-890F-96E5B45C17FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KpNewProject/DataLayer/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "request(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "999AA0B0-7BE1-4FA0-BAF9-9FEBDFC79A5F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KpNewProject/Presentation/Views/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "999AA0B0-7BE1-4FA0-BAF9-9FEBDFC79A5F - 1e39586b4a2603"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KpNewProjectClean.HomeView.body.getter : some"
+                  moduleName = "KpNewProjectClean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkrishnaprakash/KP%20Working%20Directory/Kp%20Stuff/KpNewProject/KpNewProject/Presentation/Views/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "999AA0B0-7BE1-4FA0-BAF9-9FEBDFC79A5F - e3064fca9037d26c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (KpNewProjectClean.Company) -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;KpNewProjectClean.Product&gt;, Swift.String, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;&gt;&gt;)&gt;&gt; in KpNewProjectClean.HomeView.body.getter : some"
+                  moduleName = "KpNewProjectClean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkrishnaprakash/KP%20Working%20Directory/Kp%20Stuff/KpNewProject/KpNewProject/Presentation/Views/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "263BB8CA-AED5-4B36-B65A-FE98138F84BB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KpNewProject/Presentation/Views/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8300C69F-A2C7-4D78-9B02-50FC19EFEB25"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KpNewProject/KpNewProjectApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8300C69F-A2C7-4D78-9B02-50FC19EFEB25 - 842f97957f59aae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; KpNewProjectClean.HomeView in KpNewProjectClean.KpNewProjectApp.body.getter : some"
+                  moduleName = "KpNewProjectClean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkrishnaprakash/KP%20Working%20Directory/Kp%20Stuff/KpNewProject/KpNewProject/KpNewProjectApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "8300C69F-A2C7-4D78-9B02-50FC19EFEB25 - da072534027e6feb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; KpNewProjectClean.ContentView in KpNewProjectClean.KpNewProjectApp.body.getter : some"
+                  moduleName = "KpNewProjectClean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkrishnaprakash/KP%20Working%20Directory/Kp%20Stuff/KpNewProject/KpNewProject/KpNewProjectApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBBF0446-CD9A-4E6A-BF1B-778C926E66FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KpNewProject/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25652455-1A69-4C1D-83DB-E6CFED3BA165"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KpNewProject/KpNewProjectApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C130E658-CB1E-424B-B0BA-A0708BC9E216"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KpNewProject/DataLayer/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "request(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C130E658-CB1E-424B-B0BA-A0708BC9E216 - b3ce15932289a8c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KpNewProjectClean.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Foundation.URL) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "KpNewProjectClean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkrishnaprakash/KP%20Working%20Directory/Kp%20Stuff/KpNewProject/KpNewProject/DataLayer/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "C130E658-CB1E-424B-B0BA-A0708BC9E216 - 3ab9665f4b11b1f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in KpNewProjectClean.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Foundation.URL) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "KpNewProjectClean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkrishnaprakash/KP%20Working%20Directory/Kp%20Stuff/KpNewProject/KpNewProject/DataLayer/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "760">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "190F9E9D-3006-43EF-BF5A-C0264419102C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KpNewProject/DataLayer/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "request(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "190F9E9D-3006-43EF-BF5A-C0264419102C - 3ab9665f4b11b65b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in KpNewProjectClean.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Foundation.URL) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "KpNewProjectClean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkrishnaprakash/KP%20Working%20Directory/Kp%20Stuff/KpNewProject/KpNewProject/DataLayer/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "844">
+               </Location>
+               <Location
+                  uuid = "190F9E9D-3006-43EF-BF5A-C0264419102C - 3ab9665f4b11b65b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in KpNewProjectClean.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Foundation.URL) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "KpNewProjectClean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkrishnaprakash/KP%20Working%20Directory/Kp%20Stuff/KpNewProject/KpNewProject/DataLayer/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "1008">
+               </Location>
+               <Location
+                  uuid = "190F9E9D-3006-43EF-BF5A-C0264419102C - 3ab9665f4b11b65b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in KpNewProjectClean.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Foundation.URL) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "KpNewProjectClean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkrishnaprakash/KP%20Working%20Directory/Kp%20Stuff/KpNewProject/KpNewProject/DataLayer/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "190F9E9D-3006-43EF-BF5A-C0264419102C - 3ab9665f4b11b65b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.Data, __C.NSURLResponse) throws -&gt; Foundation.Data in KpNewProjectClean.NetworkService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(Foundation.URL) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "KpNewProjectClean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkrishnaprakash/KP%20Working%20Directory/Kp%20Stuff/KpNewProject/KpNewProject/DataLayer/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "460">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA215E03-FF73-4910-8A0E-E3E5571A5FB1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KpNewProject/Presentation/Views/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "AA215E03-FF73-4910-8A0E-E3E5571A5FB1 - f62fe0697f003324"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;KpNewProjectClean.Product&gt;, Swift.String, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;KpNewProjectClean.Product&gt;, Swift.String, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;&gt;&gt;)&gt; in closure #1 (KpNewProjectClean.Company) -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;KpNewProjectClean.Product&gt;, Swift.String, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;&gt;&gt;)&gt;&gt; in KpNewProjectClean.HomeView.body.getter : some"
+                  moduleName = "KpNewProjectClean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkrishnaprakash/KP%20Working%20Directory/Kp%20Stuff/KpNewProject/KpNewProject/Presentation/Views/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "AA215E03-FF73-4910-8A0E-E3E5571A5FB1 - 605678117f575c50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (KpNewProjectClean.Product) -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;KpNewProjectClean.Product&gt;, Swift.String, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;KpNewProjectClean.Product&gt;, Swift.String, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;&gt;&gt;)&gt; in closure #1 (KpNewProjectClean.Company) -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;KpNewProjectClean.Product&gt;, Swift.String, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;&gt;&gt;)&gt;&gt; in KpNewProjectClean.HomeView.body.getter : some"
+                  moduleName = "KpNewProjectClean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkrishnaprakash/KP%20Working%20Directory/Kp%20Stuff/KpNewProject/KpNewProject/Presentation/Views/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFD12445-0A45-4478-8091-CA435D88037D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KpNewProject/Presentation/ViewModels/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchCompanies()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9B9BACA-38EE-4C15-A34B-814F21902943"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KpNewProject/Presentation/ViewModels/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetchCompanies()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9B9BACA-38EE-4C15-A34B-814F21902943 - 76efed472214d632"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in KpNewProjectClean.HomeViewModel.fetchCompanies() -&gt; ()"
+                  moduleName = "KpNewProjectClean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkrishnaprakash/KP%20Working%20Directory/Kp%20Stuff/KpNewProject/KpNewProject/Presentation/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "C9B9BACA-38EE-4C15-A34B-814F21902943 - d7ee861afca29344"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;KpNewProjectClean.Company&gt;) -&gt; () in KpNewProjectClean.HomeViewModel.fetchCompanies() -&gt; ()"
+                  moduleName = "KpNewProjectClean"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nkrishnaprakash/KP%20Working%20Directory/Kp%20Stuff/KpNewProject/KpNewProject/Presentation/ViewModels/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
