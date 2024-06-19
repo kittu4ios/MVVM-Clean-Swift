@@ -2,6 +2,8 @@
 
 A sample project demonstrating Clean Architecture with MVVM design patterns in Swift.
 
+In progress: This is under development. Unit Test Cases are in progress
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -22,9 +24,10 @@ KpNewProjectClean is a Swift project showcasing Clean Architecture with MVVM des
 
 List the key features or functionalities of your project.
 
-- Feature 1
-- Feature 2
-- ...
+- Project Structure
+- List Screen
+- Details Screen - (Inprogress)
+- Unit test cases (Inprogress)
 
 ## Architecture
 
