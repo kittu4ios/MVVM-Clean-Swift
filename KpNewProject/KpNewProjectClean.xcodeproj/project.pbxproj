@@ -29,6 +29,10 @@
 		ADCC076A2C22D634003F7A38 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCC07682C22D634003F7A38 /* NetworkService.swift */; };
 		ADCC076C2C22D640003F7A38 /* ProductsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCC076B2C22D640003F7A38 /* ProductsService.swift */; };
 		ADCC076D2C22D640003F7A38 /* ProductsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCC076B2C22D640003F7A38 /* ProductsService.swift */; };
+		ADCC07702C23041B003F7A38 /* companies.json in Resources */ = {isa = PBXBuildFile; fileRef = ADCC076F2C23041B003F7A38 /* companies.json */; };
+		ADCC07712C23041B003F7A38 /* companies.json in Resources */ = {isa = PBXBuildFile; fileRef = ADCC076F2C23041B003F7A38 /* companies.json */; };
+		ADCC07732C240D98003F7A38 /* productUseCaseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCC07722C240D98003F7A38 /* productUseCaseTests.swift */; };
+		ADCC07752C243AA4003F7A38 /* ProductRepositoryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADCC07742C243AA4003F7A38 /* ProductRepositoryTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +71,9 @@
 		ADCC07652C22D361003F7A38 /* ProductDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductDetails.swift; sourceTree = "<group>"; };
 		ADCC07682C22D634003F7A38 /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
 		ADCC076B2C22D640003F7A38 /* ProductsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductsService.swift; sourceTree = "<group>"; };
+		ADCC076F2C23041B003F7A38 /* companies.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = companies.json; sourceTree = "<group>"; };
+		ADCC07722C240D98003F7A38 /* productUseCaseTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = productUseCaseTests.swift; sourceTree = "<group>"; };
+		ADCC07742C243AA4003F7A38 /* ProductRepositoryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductRepositoryTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -193,6 +200,7 @@
 		ADBAC0022C14C680003A41A1 /* DataLayer */ = {
 			isa = PBXGroup;
 			children = (
+				ADCC076E2C2303FD003F7A38 /* responses */,
 				ADBAC0062C14C6F1003A41A1 /* Network */,
 				ADBAC0052C14C6DB003A41A1 /* Repositories */,
 			);
@@ -236,6 +244,7 @@
 		ADBAC0072C14C74C003A41A1 /* DomainTests */ = {
 			isa = PBXGroup;
 			children = (
+				ADCC07722C240D98003F7A38 /* productUseCaseTests.swift */,
 			);
 			path = DomainTests;
 			sourceTree = "<group>";
@@ -243,6 +252,7 @@
 		ADBAC0082C14C753003A41A1 /* DataTests */ = {
 			isa = PBXGroup;
 			children = (
+				ADCC07742C243AA4003F7A38 /* ProductRepositoryTests.swift */,
 			);
 			path = DataTests;
 			sourceTree = "<group>";
@@ -252,6 +262,14 @@
 			children = (
 			);
 			path = Coordinators;
+			sourceTree = "<group>";
+		};
+		ADCC076E2C2303FD003F7A38 /* responses */ = {
+			isa = PBXGroup;
+			children = (
+				ADCC076F2C23041B003F7A38 /* companies.json */,
+			);
+			path = responses;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -359,6 +377,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ADBABFDC2C14C229003A41A1 /* Preview Assets.xcassets in Resources */,
+				ADCC07702C23041B003F7A38 /* companies.json in Resources */,
 				ADBABFD92C14C229003A41A1 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -367,6 +386,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ADCC07712C23041B003F7A38 /* companies.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -408,7 +428,9 @@
 				ADCC076A2C22D634003F7A38 /* NetworkService.swift in Sources */,
 				ADCC076D2C22D640003F7A38 /* ProductsService.swift in Sources */,
 				ADCC07672C22D361003F7A38 /* ProductDetails.swift in Sources */,
+				ADCC07732C240D98003F7A38 /* productUseCaseTests.swift in Sources */,
 				ADCC07612C22CF5A003F7A38 /* ProductsRepository.swift in Sources */,
+				ADCC07752C243AA4003F7A38 /* ProductRepositoryTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

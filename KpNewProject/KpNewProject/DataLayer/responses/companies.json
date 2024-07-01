@@ -1,0 +1,58 @@
+{
+  "companies": [
+    {
+      "id": "1",
+      "name": "Tech Innovators Inc.",
+      "logo": "https://picsum.photos/seed/picsum/200/200",
+      "products": [
+        {
+          "id": "1",
+          "name": "Apple Inc.",
+          "type": "Stock",
+          "currentValue": 145.32,
+          "percentageChange": 1.24,
+          "symbol": "AAPL",
+          "timestamp": "2024-06-19T10:00:00Z",
+          "image": "https://picsum.photos/200/300?random=4"
+        },
+        {
+          "id": "2",
+          "name": "Tesla Inc.",
+          "type": "Stock",
+          "currentValue": 720.14,
+          "percentageChange": -0.58,
+          "symbol": "TSLA",
+          "timestamp": "2024-06-19T10:00:00Z",
+          "image": "https://picsum.photos/200/200?grayscale"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Finance Leaders LLC",
+      "logo": "https://picsum.photos/200/300?random=1",
+      "products": [
+        {
+          "id": "3",
+          "name": "Vanguard 500 Index Fund",
+          "type": "Mutual Fund",
+          "currentValue": 403.23,
+          "percentageChange": 0.45,
+          "symbol": "VFIAX",
+          "timestamp": "2024-06-19T10:00:00Z",
+          "image": "https://picsum.photos/200/300?random=2"
+        },
+        {
+          "id": "4",
+          "name": "Bitcoin",
+          "type": "Cryptocurrency",
+          "currentValue": 36542.77,
+          "percentageChange": 2.31,
+          "symbol": "BTC",
+          "timestamp": "2024-06-19T10:00:00Z",
+          "image": "https://picsum.photos/200/300?random=3"
+        }
+      ]
+    }
+  ]
+}
