@@ -2,7 +2,7 @@
 //  Company.swift
 //  KpNewProjectClean
 //
-//  Created by N Krishna Prakash on 19/06/24.
+//  Created by Krishna Prakash on 19/06/24.
 //
 
 import Foundation

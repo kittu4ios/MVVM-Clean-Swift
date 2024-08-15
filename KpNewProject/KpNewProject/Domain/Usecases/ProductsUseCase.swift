@@ -2,14 +2,15 @@
 //  ProductsUseCase.swift
 //  KpNewProjectClean
 //
-//  Created by N Krishna Prakash on 19/06/24.
+//  Created by Krishna Prakash on 19/06/24.
 //
 
 import Foundation
 import Combine
 
 protocol ProductsUseCase {
-   func execute() -> AnyPublisher<[Company], Error>
+   func executeProducts() -> AnyPublisher<[Company], Error>
+   func executeProductDetails() -> AnyPublisher<ProductDetails, Error>
 }
 
 class ProductsUseCaseImpl: ProductsUseCase {
@@ -20,11 +21,14 @@ class ProductsUseCaseImpl: ProductsUseCase {
         self.repository = repository
     }
     
-    func execute() -> AnyPublisher<[Company], Error> {
+    func executeProducts() -> AnyPublisher<[Company], Error> {
         
         return repository.fetchAllProducts()
         
     }
     
+    func executeProductDetails() -> AnyPublisher<ProductDetails, Error> {
+        return repository.fetchProductDetails()
+    }
     
 }

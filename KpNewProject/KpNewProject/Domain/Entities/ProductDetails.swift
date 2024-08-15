@@ -2,7 +2,7 @@
 //  ProductDetails.swift
 //  KpNewProjectClean
 //
-//  Created by N Krishna Prakash on 19/06/24.
+//  Created by Krishna Prakash on 19/06/24.
 //
 
 import Foundation
@@ -25,6 +25,6 @@ struct HistoricalData: Codable {
     let value: Double
 }
 
-struct DetailsViewResponse: Codable {
+struct ProductDetailsResponse: Codable {
     let productDetails: ProductDetails
 }

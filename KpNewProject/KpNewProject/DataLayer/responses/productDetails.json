@@ -1,0 +1,35 @@
+{
+  "productDetails": {
+    "id": "1",
+    "name": "Apple Inc.",
+    "type": "Stock",
+    "symbol": "AAPL",
+    "currentValue": 145.32,
+    "percentageChange": 1.24,
+    "description": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California.",
+    "timestamp": "2024-06-19T10:00:00Z",
+    "image": "https://picsum.photos/200/300?random=8",
+    "historicalData": [
+      {
+        "date": "2023-06-12",
+        "value": 144.1
+      },
+      {
+        "date": "2023-06-11",
+        "value": 143.85
+      },
+      {
+        "date": "2023-06-10",
+        "value": 144.25
+      },
+      {
+        "date": "2023-06-09",
+        "value": 145
+      },
+      {
+        "date": "2023-06-08",
+        "value": 144.75
+      }
+    ]
+  }
+}

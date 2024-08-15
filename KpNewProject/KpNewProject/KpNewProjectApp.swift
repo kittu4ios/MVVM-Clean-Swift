@@ -2,7 +2,7 @@
 //  KpNewProjectApp.swift
 //  KpNewProject
 //
-//  Created by N Krishna Prakash on 08/06/24.
+//  Created by Krishna Prakash on 08/06/24.
 //
 
 import SwiftUI
