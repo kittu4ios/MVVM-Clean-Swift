@@ -48,7 +48,6 @@ Ensure you have the following prerequisites before starting:
 - iOS 14.0+
 - Xcode 13+
 - Swift 5.5+
-- Cocoapods (for dependencies management, optional)
 
 ## Installation
 
